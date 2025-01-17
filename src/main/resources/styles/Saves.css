@@ -1,0 +1,59 @@
+/* Main container for the saves screen */
+.saves-screen {
+    -fx-padding: 20;
+    -fx-alignment: center;
+}
+
+/* Container for the list of saves */
+.saves-list-container {
+    -fx-background-color: #2a2a2a;
+    -fx-border-color: #00c8ff;
+    -fx-border-radius: 4;
+    -fx-padding: 10;
+}
+
+/* ScrollPane styling */
+.saves-scroll-pane {
+    -fx-background-color: #1a1a1a;
+    -fx-border-color: #00c8ff;
+    -fx-border-radius: 4;
+}
+
+/* Each save item in the list */
+.save-item {
+    -fx-background-color: #333333;
+    -fx-padding: 10;
+    -fx-border-color: #00c8ff;
+    -fx-border-radius: 4;
+    -fx-alignment: center-left;
+}
+
+/* Save item label styling */
+.save-item-label {
+    -fx-font-family: 'Orbitron';
+    -fx-font-size: 14px;
+    -fx-text-fill: #ffffff;
+}
+
+/* Alert box styling */
+.alert-box {
+    -fx-background-color: #2a2a2a;
+    -fx-padding: 20;
+    -fx-border-color: #00c8ff;
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+}
+
+/* Alert title styling */
+.alert-title {
+    -fx-font-family: 'Orbitron Bold';
+    -fx-font-size: 18px;
+    -fx-text-fill: #ffffff;
+}
+
+/* Alert message styling */
+.alert-message {
+    -fx-font-family: 'Orbitron';
+    -fx-font-size: 14px;
+    -fx-text-fill: #cccccc;
+}

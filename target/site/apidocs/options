@@ -1,0 +1,26 @@
+-classpath
+'/Users/nicolasantoine/.m2/repository/org/openjfx/javafx-controls/20/javafx-controls-20.jar:/Users/nicolasantoine/.m2/repository/org/openjfx/javafx-controls/20/javafx-controls-20-mac-aarch64.jar:/Users/nicolasantoine/.m2/repository/org/openjfx/javafx-graphics/20/javafx-graphics-20.jar:/Users/nicolasantoine/.m2/repository/org/openjfx/javafx-graphics/20/javafx-graphics-20-mac-aarch64.jar:/Users/nicolasantoine/.m2/repository/org/openjfx/javafx-base/20/javafx-base-20.jar:/Users/nicolasantoine/.m2/repository/org/openjfx/javafx-base/20/javafx-base-20-mac-aarch64.jar:/Users/nicolasantoine/.m2/repository/org/openjfx/javafx-fxml/20/javafx-fxml-20.jar:/Users/nicolasantoine/.m2/repository/org/openjfx/javafx-fxml/20/javafx-fxml-20-mac-aarch64.jar'
+-encoding
+'UTF-8'
+-overview
+'/Users/nicolasantoine/Documents/TC03/LO02/Projet/pocket-imperium/src/main/java/overview.html'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/nicolasantoine/Documents/TC03/LO02/Projet/pocket-imperium/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/nicolasantoine/Documents/TC03/LO02/Projet/pocket-imperium/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'pocket-imperium 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'pocket-imperium 1.0-SNAPSHOT API'

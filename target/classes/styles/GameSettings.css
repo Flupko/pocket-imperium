@@ -1,0 +1,107 @@
+/* Strategy Selector Base Style */
+.strategy-selector {
+    -fx-background-color: #2a2a2a; /* Dark theme */
+    -fx-border-color: #00c8ff; /* Neon blue border */
+    -fx-border-radius: 4; /* Rounded corners */
+    -fx-background-radius: 4; /* Match rounded corners */
+    -fx-text-fill: white; /* White text */
+    -fx-font-family: 'Orbitron'; /* Space font */
+    -fx-font-size: 14px; /* Default text size */
+}
+
+/* Strategy Selector Dropdown Arrow */
+.strategy-selector .arrow {
+    -fx-background-color: #2a2a2a; /* Same dark theme as the selector */
+    -fx-border-color: #00c8ff; /* Match border color */
+    -fx-border-radius: 4;
+}
+
+/* Strategy Selector Dropdown Items */
+.strategy-selector .list-view .list-cell {
+    -fx-background-color: #2a2a2a; /* Dark background for dropdown items */
+    -fx-text-fill: #00c8ff; /* Neon blue text */
+    -fx-font-family: 'Orbitron'; /* Space font */
+    -fx-font-size: 14px;
+}
+
+/* Strategy Selector Hovered Dropdown Items */
+.strategy-selector .list-view .list-cell:hover {
+    -fx-background-color: #adadad; /* Slightly lighter background for hover */
+    -fx-text-fill: #ffffff; /* White text on hover */
+    -fx-border-color: #00eaff; /* Glow border for hover */
+}
+
+/* Strategy Selector Selected Item */
+.strategy-selector .list-view .list-cell:focused {
+    -fx-background-color: #1a1a1a; /* Darker selected item */
+    -fx-text-fill: white; /* White text for selected */
+    -fx-font-weight: bold;
+}
+
+/* Root container for game settings */
+.game-settings-root {
+    -fx-padding: 20;
+    -fx-alignment: center;
+}
+
+/* Title styling */
+.game-settings-title {
+    -fx-font-family: 'Orbitron Bold';
+    -fx-font-size: 24px;
+    -fx-text-fill: #00c8ff; /* Neon blue */
+    -fx-effect: dropshadow(gaussian, rgba(0, 200, 255, 0.7), 6, 0.3, 0, 0);
+}
+
+/* Player column styling */
+.player-column {
+    -fx-border-color: #00c8ff;
+    -fx-border-width: 2;
+    -fx-border-radius: 8;
+    -fx-background-color: linear-gradient(to bottom, #2a2a2a, #1a1a1a);
+    -fx-background-radius: 8;
+    -fx-effect: dropshadow(gaussian, rgba(0, 200, 255, 0.5), 6, 0.3, 0, 0);
+    -fx-padding: 10;
+    -fx-alignment: center;
+}
+
+/* Player label styling */
+.player-label {
+    -fx-font-family: 'Orbitron Bold';
+    -fx-font-size: 18px;
+    -fx-text-fill: #ffffff; /* White text */
+}
+
+/* Player name field styling */
+.player-name-field {
+    -fx-background-color: #1a1a1a; /* Dark background */
+    -fx-text-fill: #ffffff; /* White text */
+    -fx-border-color: #00c8ff;
+    -fx-border-radius: 4;
+    -fx-background-radius: 4;
+    -fx-padding: 5;
+}
+
+/* Robot checkbox styling */
+.player-robot-checkbox {
+    -fx-font-family: 'Orbitron';
+    -fx-text-fill: #ffffff; /* White text */
+    -fx-font-size: 14px;
+}
+
+/* Strategy selector styling */
+.player-strategy-selector {
+    -fx-background-color: #1a1a1a; /* Dark background */
+    -fx-text-fill: #ffffff; /* White text */
+    -fx-border-color: #00c8ff;
+    -fx-border-radius: 4;
+    -fx-background-radius: 4;
+    -fx-padding: 5;
+}
+
+/* Invalid entry label */
+.game-settings-invalid-entry {
+    -fx-font-family: 'Orbitron';
+    -fx-font-size: 16px;
+    -fx-text-fill: #ff0000; /* Red text */
+    -fx-effect: dropshadow(gaussian, rgba(255, 0, 0, 0.7), 6, 0.3, 0, 0);
+}
