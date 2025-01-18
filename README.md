@@ -17,21 +17,76 @@
 ## Screenshots 📸
 
 ### Board View 🌌
-| ![Board View 1](https://imgur.com/qI7ERqK.png) | ![Board View 2](https://imgur.com/hPv4LpN.png) |
-|:----------------------------------------------:|:----------------------------------------------:|
-|  **Hexagonal grid during initial deployment**  |        **Choosing your commands order**        |
-| ![Board View 3](https://imgur.com/QSHHZCp.png) | ![Board View 4](https://imgur.com/oV3JGN9.png) |
-|        **Playing the Explore command**         |          **Scoring (Exploit) phase**           |
+
+<img src="https://i.imgur.com/qI7ERqK.png" alt="Board View 1" style="display: block; margin: 20px auto;">
+<p style="text-align: center;"><strong>Hexagonal grid during initial deployment</strong></p>
+
+<img src="https://i.imgur.com/hPv4LpN.png" alt="Board View 2" style="display: block; margin: 20px auto;">
+<p style="text-align: center;"><strong>Choosing your commands order</strong></p>
+
+<img src="https://i.imgur.com/QSHHZCp.png" alt="Board View 3" style="display: block; margin: 20px auto;">
+<p style="text-align: center;"><strong>Playing the Explore command</strong></p>
+
+<img src="https://i.imgur.com/oV3JGN9.png" alt="Board View 4" style="display: block; margin: 20px auto;">
+<p style="text-align: center;"><strong>Scoring (Exploit) phase</strong></p>
+
+---
 
 ### Action Menu 🛠️
-| ![Action Menu](https://imgur.com/TBKC7lv.png) |
-|:---------------------------------------------:|
-|    **Interactive menu for player actions**    |
+
+<img src="https://i.imgur.com/TBKC7lv.png" alt="Action Menu" style="display: block; margin: 20px auto; width: 200px;">
+<p style="text-align: center;"><strong>Interactive menu for player actions</strong></p>
+
+---
 
 ### Save System & Settings 💾⚙️
-| ![Save System](https://imgur.com/0NvyUwj.png) | ![Settings](https://imgur.com/2o5LWbF.png)) |
-|:---------------------------------------------:|:-------------------------------------------:|
-|          **Save your current game**           | **Load a previously saved game seamlessly** |
+
+<img src="https://i.imgur.com/0NvyUwj.png" alt="Save System" style="display: block; margin: 20px auto;">
+<p style="text-align: center;"><strong>Load a previously saved game seamlessly</strong></p>
+
+<img src="https://i.imgur.com/2o5LWbF.png" alt="Settings" style="display: block; margin: 20px auto;">
+<p style="text-align: center;"><strong>Save your current game</strong></p>
+
+---
+
+### Action Menu 🛠️
+
+<div align="center">
+    <img src="https://i.imgur.com/TBKC7lv.png" alt="Action Menu" width="200px">
+    <p><strong>Interactive menu for player actions</strong></p>
+</div>
+
+---
+
+### Save System & Settings 💾⚙️
+
+<div align="center">
+    <img src="https://i.imgur.com/0NvyUwj.png" alt="Save System">
+    <p><strong>Load a previously saved game seamlessly</strong></p>
+</div>
+
+<div align="center">
+    <img src="https://i.imgur.com/2o5LWbF.png" alt="Settings">
+    <p><strong>Save your current game</strong></p>
+</div>
+
+---
+
+### Action Menu 🛠️
+
+<img src="https://i.imgur.com/TBKC7lv.png" alt="Action Menu" width="150px">  
+
+**Interactive menu for player actions**
+
+---
+
+### Save System & Settings 💾⚙️
+
+![Save System](https://i.imgur.com/0NvyUwj.png)  
+**Save your current game**
+
+![Settings](https://i.imgur.com/2o5LWbF.png)  
+**Load a previously saved game seamlessly**
 
 ---
 
