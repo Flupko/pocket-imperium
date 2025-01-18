@@ -17,21 +17,21 @@
 ## Screenshots 📸
 
 ### Board View 🌌
-| ![Board View 1](https://imgur.com/qI7ERqK) | ![Board View 2](https://imgur.com/hPv4LpN) |
-|:-----------------------------------------------:|:-----------------------------------------------:|
-| **Hexagonal grid during initial deployment**           | **Choosing your commands order**              |
-| ![Board View 3](https://imgur.com/undefined) | ![Board View 4](https://imgur.com/oV3JGN9) |
-| **Playing the Explore command**                  | **Scoring (Exploit) phase**                     |
+| ![Board View 1](https://imgur.com/qI7ERqK.png) | ![Board View 2](https://imgur.com/hPv4LpN.png) |
+|:----------------------------------------------:|:----------------------------------------------:|
+|  **Hexagonal grid during initial deployment**  |        **Choosing your commands order**        |
+| ![Board View 3](https://imgur.com/QSHHZCp.png) | ![Board View 4](https://imgur.com/oV3JGN9.png) |
+|        **Playing the Explore command**         |          **Scoring (Exploit) phase**           |
 
 ### Action Menu 🛠️
-| ![Action Menu](https://imgur.com/TBKC7lv) |
-|:-----------------------------------------------:|
-| **Interactive menu for player actions**        |
+| ![Action Menu](https://imgur.com/TBKC7lv.png) |
+|:---------------------------------------------:|
+|    **Interactive menu for player actions**    |
 
 ### Save System & Settings 💾⚙️
-| ![Save System](https://imgur.com/0NvyUwj) | ![Settings]([https://via.placeholder.com/400](https://imgur.com/2o5LWbF)) |
-|:------------------------------------------------:|:--------------------------------------------:|
-| **Save your current game**                       | **Load a previously saved game seamlessly**          |
+| ![Save System](https://imgur.com/0NvyUwj.png) | ![Settings](https://imgur.com/2o5LWbF.png)) |
+|:---------------------------------------------:|:-------------------------------------------:|
+|          **Save your current game**           | **Load a previously saved game seamlessly** |
 
 ---
 
